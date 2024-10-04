@@ -1,0 +1,6 @@
+USER       PID %CPU %MEM    VSZ   RSS TTY      STAT START   TIME COMMAND
+root         1  0.0  0.0    900   524 ?        Sl   17:37   0:00 /init
+root        85  0.0  0.0    900    80 ?        Ss   17:47   0:00 /init
+root        86  0.0  0.0    900    80 ?        S    17:47   0:00 /init
+shubham     87  0.0  0.0  10168  5352 pts/0    Ss   17:47   0:00 -bash
+shubham    297  0.0  0.0  10856  3300 pts/0    R+   18:07   0:00 ps -aux
